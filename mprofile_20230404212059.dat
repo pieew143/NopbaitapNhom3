@@ -1,0 +1,3 @@
+CMDLINE D:\Python\venv\Scripts\python.exe tests/performance.py
+MEM 1.695312 1680618059.9157
+MEM 3.203125 1680618060.0310
